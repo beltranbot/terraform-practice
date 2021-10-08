@@ -1,7 +1,7 @@
 terraform.tfvars
 .terraform*
 *.pub
-myKey
+mykey
 terraform.tfstate
 terraform.tfstate.backup
 mykey
