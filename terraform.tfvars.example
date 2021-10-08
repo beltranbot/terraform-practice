@@ -1,0 +1,6 @@
+AWS_ACCESS_KEY      = ""
+AWS_SECRET_KEY      = ""
+AWS_REGION          = ""
+PATH_TO_PUBLIC_KEY  = ""
+PATH_TO_PRIVATE_KEY = ""
+INSTANCE_USERNAME   = ""
