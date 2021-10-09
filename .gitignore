@@ -5,3 +5,4 @@ mykey
 terraform.tfstate
 terraform.tfstate.backup
 mykey
+my_aws_key
